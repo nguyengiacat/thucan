@@ -1,0 +1,451 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+article{
+	width: 1200px;
+	height: auto;
+	margin: auto;
+	font-family: tahoma;
+	background: #fff;
+}
+.dau{
+	height: 40px;
+	background: #faf3f3;
+}
+.dau img{
+	width: 16px;
+	height: auto;
+	float: left;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+.dau p{
+	float: left;
+	padding-left: 10px;
+	line-height: 40px;
+	font-size: 10pt;
+}
+.menu{
+	height: 100px;
+	background: #fff;
+}
+.menu img{
+	float: left;
+	margin-right: 50px;
+}
+.a{
+    width: 420px;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+	
+}
+.b{
+	width: 90px;
+	height: 30px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	background: #FF4500;
+	color: #fff;
+}
+.menu form p{
+	padding-left: 60px;
+	font-family: tahoma;
+}
+.menu1{
+    height: 60px;
+    background: #FF4500;
+}
+.menu1 ul li{
+    list-style-type: none;
+    float: left;
+	
+}
+.menu1 ul li a{
+	text-decoration: none;
+	line-height: 60px;
+	color: #fff;
+	padding: 15px 15px;
+	margin-left: 5px;
+}
+
+.menu1 ul li a:hover{
+	color:#FF4500; 
+	background:#fff;
+}
+.banner{
+	height: auto;
+	margin-top: 20px;
+	background: #fff;
+}
+.left{
+	width: 400px;
+	height: 480px;
+	float: left;
+	border-right: 0.5px solid #F0F0F0;
+	border-left: 0.5px solid #F0F0F0;
+	border-bottom: 2px solid #F0F0F0;
+	background: #fff;
+}
+
+.bo1{
+	text-align: center;
+	width: 400px;
+	height: 40px;
+	background: #FF4500;
+	border-bottom: 2px solid #fff;
+}
+.bo1 p{
+	line-height: 40px;
+	color: #fff;
+	font-size: 15pt;
+}
+.left ul li{
+	list-style-type: none;
+     line-height: 40px;
+     padding-left: 20px;
+    position: relative;
+    height: 40px;
+}
+.left ul li a{
+	text-decoration: none;
+	color: #000;
+    display: block;
+}
+
+.left ul li:hover{
+  background:#26aa64 
+}
+.right{
+	width: 800px;
+	height: 400px;
+	float: left;
+	position: relative;
+}
+.right img{
+	width:790px;
+	height: 480px; 
+	margin-left: 10px;
+	position: absolute;
+}
+.bo2{
+    width: 250px;
+    height: 60px;
+    background: #fff;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 525px;
+    left: 25px;
+    top: -49px;
+
+}
+.bo2 img{
+	width: 50px;
+	height: auto;
+	float: left;
+	margin-left: 25px;
+}
+.bo2 p{
+	float: right;
+	font-size: 10pt;
+	padding: 20px;
+}
+.bo2 a{
+	text-decoration: none;
+	color: #000;
+}
+.gt{
+	height: auto;
+	
+	margin-top: 50px;
+}
+.gt h1{
+   padding-top: 10px;
+   font-size: 20pt;
+   padding-left: 350px;
+}
+.gt p{
+	padding-top: 30px;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+.bo3{
+	height: auto;
+	
+}
+.bo4{
+	width: 600px;
+	height: auto;
+	float: left;
+	margin-top: 20px;
+	
+}
+.bo5{
+	width: 550px;
+	height: auto;
+	float: left;
+	margin-top: 20px;
+	
+}
+.bo3 form{
+	padding-left: 40px;
+
+
+}
+.ab{
+ width: 460px;
+ height: 40px;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ 
+ border: none;
+ border: 0.5px solid #ECE7E7;
+}
+.bc{
+ width: 460px;
+ height: 40px;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ 
+ border: none;
+ border: 0.5px solid #ECE7E7;
+}
+.bo3 h1{
+  padding-top: 30px;
+}
+.cd{
+	width: 120px;
+	height: 30px;
+	background:#FF4500;
+	color: #fff; 
+}
+.vip{
+	margin-top: 30px;
+	margin-left: 100px;
+}
+.vi {
+	margin-top: 30px;
+	width: 150px;
+	height: 30px;
+	margin-left: 20px;
+	border-bottom:3px solid #26aa64; 
+}
+.viem{
+	margin-top: 30px;
+	height: 300px;
+}
+.viem img{
+	width: 300px;
+	height: 250px;
+	float: left;
+
+}
+.viemdo{
+    width: 210px;
+    height: 250px;
+    float: left;
+    margin-left: 20px;
+    position: relative;
+    border: 0.5px solid #E5E2E2;
+}
+.viemdo img{
+    width: 199px;
+    height: 160px;
+    margin-bottom: 40px;
+    position: absolute;
+    margin-left: 5px;
+}
+.viemdo p{
+    margin-top: 15px;
+    color: #26aa64;
+    position: absolute;
+    padding-top: 200px;
+    padding-left: 5px;
+    left: 11px;
+}
+.km{
+    background: #26aa64;
+    color: #fff;
+    position: absolute;
+    width: 72px;
+    height: 35px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 135px;
+    left: 12px;
+    top: 73px;
+}
+.km h5{
+    line-height: 35px;
+    position: absolute;
+    padding-left: 10px;
+    width: 60px;
+    left: -2px;
+    top: 1px;
+}
+.viemdo h4{
+    position: absolute;
+    padding-top: 180px;
+    padding-left: 5px;
+    left: 18px;
+    top: -11px;
+}
+.ak{
+	float: left;
+}
+.bo01{
+	width: 850px;
+	height: 40px;
+	border-bottom: 2px solid #26aa64; 
+	margin-left: 30px;
+}
+.bo01 ul{
+	list-style: none;
+}
+.bo01 ul li a{
+	text-decoration: none;
+	color: #686767;
+}
+.bo01 ul li{
+	float: left;
+	padding-left: 30px;
+}
+.bo01 ul li a:hover{
+	color: #26aa64;
+}
+.viemdo a{
+	text-decoration: none;
+	color: #000;
+}
+.anh{
+	height: 400px;
+	margin-top: 40px;
+}
+.anh img{
+	float: left;
+	width: 550px;
+	height: auto;
+	margin-left: 20px;
+}
+.trai {
+	width: 500px;
+	height: 400px;
+	float: left;
+	margin-left: 70px;
+}
+.trai h2{
+	font-size: 15pt;
+	color: #ACA7A7;
+	padding-bottom: 15px;
+	font-weight: normal;
+	padding-top: 70px;
+}
+.trai h1{
+	font-size: 18pt;
+	padding-bottom: 10px;
+	font-weight: normal;
+	color: #26aa64
+}
+.trai h4{
+	font-size: 10pt;
+	font-weight: normal;
+}
+.trai h5{
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+.trai button{
+	width: 200px;
+	height: 40px;
+	border: none;
+	border-radius: 15px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.trai button a{
+	text-decoration: none;
+}
+.yeu{
+	height: auto;
+}
+.em{
+	width: 670px;
+	height: 750px;
+	float: left;
+}
+.hi{
+	width: 500px;
+	height: 750px;
+	float: left;
+	margin-top: 30px;
+	border-left: 0.5px solid #DCDCDC;
+	border-top: 0.5px solid #DCDCDC;
+}
+.em img{
+   width: 630px;
+   height:auto;
+   margin-top: 30px;
+}
+.em h1{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-weight: normal;
+	font-size: 15pt;
+}
+.em  a{
+	text-decoration: none;
+	color: #000;
+}
+.em a:hover{
+	color: #26aa64;
+}
+.em h4{
+	font-weight: normal;
+	font-size: 10pt;
+	color: #A8A7A7;
+	padding-left: 5px;
+}
+.hihi{
+	width: 200px;
+	height: 360px;
+	float: left;
+	margin-left: 15px;
+	text-align: center;
+}
+.hihi img{
+	width: 190px;
+	height: auto;
+	margin-bottom: 20px;
+}
+.hihi a{
+	text-decoration: none;
+	color: #000;
+	padding-top: 20px;
+}
+.be{
+	width: 500px;
+	height: 70px;
+    margin-top: 15px;
+    border-bottom: 0.5px solid #E4E2E2;
+    padding-left: 3px;
+}
+.be img{
+	width: 50px;
+	height: auto;
+	float: left;
+	margin-left: 5px;
+}
+.be p{
+	float: left;
+	padding-left: 0px;
+	padding-top: 10px;
+}
+.be a{
+	text-decoration: none;
+	color: #000;
+}
+.be a p:hover{
+	color:#26aa64; 
+}
